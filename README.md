@@ -1,2 +1,2 @@
 # Python
-Python Projects
+This repository hosts my python projects.
